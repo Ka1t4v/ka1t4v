@@ -10,8 +10,9 @@
 
 ### 🎈Security Researcher
 
-- Java/PHP web security
+- Web security
 - Penetrating Testing
+- ReadTeam
 <!--
 **Ka1t4v/ka1t4v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
